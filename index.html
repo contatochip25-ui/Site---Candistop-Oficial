@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="pt-BR">
   <head>
@@ -105,12 +106,15 @@
     <script type="importmap">
     {
       "imports": {
-        "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
-        "react/": "https://esm.sh/react@^19.2.3/",
-        "react": "https://esm.sh/react@^19.2.3"
+        "react": "https://esm.sh/react@19.0.0",
+        "react-dom": "https://esm.sh/react-dom@19.0.0",
+        "react-dom/client": "https://esm.sh/react-dom@19.0.0/client",
+        "react/": "https://esm.sh/react@19.0.0/",
+        "react-dom/": "https://esm.sh/react-dom@19.0.0/"
       }
     }
     </script>
+    <script type="module" src="./index.tsx"></script>
     <!-- Panda Video API -->
     <script>
       if(!document.querySelector('script[src="https://player.pandavideo.com.br/api.v2.js"]')){
