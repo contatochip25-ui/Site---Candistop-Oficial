@@ -37,7 +37,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="pt-10 border-t border-white/5 text-slate-500 text-[10px] md:text-xs leading-relaxed max-w-5xl mx-auto">
-          <p className="mb-4">© 2024 CandiStop. Todos os direitos reservados.</p>
+          <p className="mb-4">© 2026 CandiStop. Todos os direitos reservados.</p>
           <p className="mb-6 px-4">
             <strong>AVISO:</strong> Resultados variam de pessoa para pessoa. Este produto não substitui orientação médica. Consulte seu profissional de saúde regularmente.
           </p>
