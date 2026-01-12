@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Testimonials: React.FC = () => {
@@ -46,7 +45,7 @@ const Testimonials: React.FC = () => {
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-5xl font-black text-slate-900 mb-4">
-            Mais de 50 Mil Mulheres Já Eliminaram a Candidíase
+            Mais de 250 Mil Mulheres Já Eliminaram a Candidíase
           </h2>
           <p className="text-slate-500 text-lg font-medium">Veja o que nossas clientes estão dizendo sobre o CandiStop</p>
         </div>
