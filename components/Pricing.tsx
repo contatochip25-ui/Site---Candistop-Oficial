@@ -146,11 +146,11 @@ const Pricing: React.FC = () => {
                 rel="noopener noreferrer"
                 className={`group relative w-full py-4 md:py-6 rounded-full text-center font-black text-xs md:text-xl shadow-[0_12px_30px_rgba(0,0,0,0.2)] active:scale-95 transition-all overflow-hidden flex items-center justify-center gap-2.5 no-underline animate-shine-loop ${
                   p.featured 
-                  ? 'bg-white text-purple-700 hover:shadow-white/20' 
-                  : 'bg-gradient-to-r from-red-600 to-rose-600 text-white'
+                  ? 'bg-emerald-500 text-white hover:bg-emerald-600' 
+                  : 'bg-emerald-500 text-white hover:bg-emerald-600'
                 }`}
               >
-                <i className={`fa-solid fa-cart-shopping text-[10px] md:text-lg opacity-80 group-hover:scale-110 transition-transform ${p.featured ? 'text-purple-600' : 'text-white'}`}></i>
+                <i className="fa-solid fa-cart-shopping text-[10px] md:text-lg opacity-80 group-hover:scale-110 transition-transform text-white"></i>
                 <span className="tracking-tight uppercase">Conheça o tratamento</span>
               </a>
               
