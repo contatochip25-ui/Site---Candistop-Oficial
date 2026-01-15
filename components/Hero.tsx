@@ -10,11 +10,11 @@ const Hero: React.FC = () => {
         </span>
         
         <h1 className="text-[1.85rem] sm:text-4xl md:text-6xl font-black text-slate-900 leading-[1.15] mb-6 md:mb-8 tracking-tight">
-          Recupere o Conforto e sua Liberdade: O Novo Método Natural que Auxilia no Alívio de <span className="text-red-600">Coceira, Corrimento e Mau Cheiro Íntimo</span>
+          Por que a candidíase insiste em voltar mesmo depois de <span className="text-red-600">pomadas e remédios?</span>
         </h1>
         
         <p className="text-base md:text-xl text-slate-700 max-w-4xl mx-auto mb-8 md:mb-12 leading-relaxed font-medium px-2">
-          Cansada de soluções temporárias? Conheça o <strong>CandiStop</strong>, uma abordagem que apoia o equilíbrio da flora para que você volte a se sentir segura todos os dias.
+          Milhares de mulheres aliviam os sintomas por um tempo… mas continuam presas ao ciclo de coceira, corrimento, mau cheiro e desconforto íntimo.
         </p>
 
         <div className="flex flex-col sm:flex-row flex-wrap justify-center gap-3 md:gap-4 mb-10 md:mb-14">
